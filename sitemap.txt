@@ -1,2 +1,2 @@
-http://example.com/hello-world/
-http://example.com/
+http://umbrella-style.github.io/hello-world/
+http://umbrella-style.github.io/
