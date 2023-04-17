@@ -1,2 +1,2 @@
-http://umbrella-style.github.io/hello-world/
-http://umbrella-style.github.io/
+https://umbrella-fashionista.github.io/hello-world/
+https://umbrella-fashionista.github.io/
